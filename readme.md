@@ -1,4 +1,4 @@
-目标检测7日打卡营 
+目标检测7日打卡营-YOLO系列目标检测算法详解
 
 地址：<https://aistudio.baidu.com/aistudio/education/group/info/1617> 
 
@@ -6,7 +6,7 @@
 
   1. YOLO系列概览 
 
-![下载 (1)](C:\Users\Administrator\Downloads\下载 (1).png)
+![下载 (1)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(1).png)
 
 ![下载 (2)](C:\Users\Administrator\Downloads\下载 (2).png)
 
