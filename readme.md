@@ -8,91 +8,91 @@
 
 ![下载 (1)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(1).png)
 
-![下载 (2)](C:\Users\Administrator\Downloads\下载 (2).png)
+![下载 (2)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(2).png)
 
-![下载 (3)](C:\Users\Administrator\Downloads\下载 (3).png)
+![下载 (3)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(3).png)
 
-![下载 (4)](C:\Users\Administrator\Downloads\下载 (4).png)
+![下载 (4)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(4).png)
 
-![下载 (5)](C:\Users\Administrator\Downloads\下载 (5).png)
+![下载 (5)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(5).png)
 
-![下载 (6)](C:\Users\Administrator\Downloads\下载 (6).png)
+![下载 (6)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(6).png)
 
-![下载 (7)](C:\Users\Administrator\Downloads\下载 (7).png)
+![下载 (7)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(7).png)
 
-![下载 (8)](C:\Users\Administrator\Downloads\下载 (8).png)
+![下载 (8)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(8).png)
 
 2. YOLOv3模块的详解 
 
-![下载 (9)](C:\Users\Administrator\Downloads\下载 (9).png)
+![下载 (9)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(9).png)
 
 
 
-![下载 (10)](C:\Users\Administrator\Downloads\下载 (10).png)
+![下载 (10)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(10).png)
 
-![下载 (11)](C:\Users\Administrator\Downloads\下载 (11).png)
+![下载 (11)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(11).png)
 
-![下载 (12)](C:\Users\Administrator\Downloads\下载 (12).png)
+![下载 (12)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(12).png)
 
-![下载 (13)](C:\Users\Administrator\Downloads\下载 (13).png)
+![下载 (13)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(13).png)
 
-![下载 (14)](C:\Users\Administrator\Downloads\下载 (14).png)
+![下载 (14)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(14).png)
 
-![下载 (15)](C:\Users\Administrator\Downloads\下载 (15).png)
+![下载 (15)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(15).png)
 
-![下载 (16)](C:\Users\Administrator\Downloads\下载 (16).png)
+![下载 (16)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(16).png)
 
-![下载 (17)](C:\Users\Administrator\Downloads\下载 (17).png)
+![下载 (17)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(17).png)
 
-![下载 (18)](C:\Users\Administrator\Downloads\下载 (18).png)
-
-
-
-![下载 (19)](C:\Users\Administrator\Downloads\下载 (19).png)
-
-![下载 (20)](C:\Users\Administrator\Downloads\下载 (20).png)
+![下载 (18)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(18).png)
 
 
 
-![下载 (21)](C:\Users\Administrator\Downloads\下载 (21).png)
+![下载 (19)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(19).png)
 
-![下载 (22)](C:\Users\Administrator\Downloads\下载 (22).png)
-
-![下载 (23)](C:\Users\Administrator\Downloads\下载 (23).png)
-
-![下载 (24)](C:\Users\Administrator\Downloads\下载 (24).png)
-
-![下载 (25)](C:\Users\Administrator\Downloads\下载 (25).png)
-
-![下载 (26)](C:\Users\Administrator\Downloads\下载 (26).png)
-
-![下载 (27)](C:\Users\Administrator\Downloads\下载 (27).png)
-
-![下载 (28)](C:\Users\Administrator\Downloads\下载 (28).png)
+![下载 (20)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(20).png)
 
 
 
-![下载 (29)](C:\Users\Administrator\Downloads\下载 (29).png)
+![下载 (21)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(21).png)
+
+![下载 (22)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(22).png)
+
+![下载 (23)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(23).png)
+
+![下载 (24)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(24).png)
+
+![下载 (25)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(25).png)
+
+![下载 (26)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(26).png)
+
+![下载 (27)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(27).png)
+
+![下载 (28)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(28).png)
+
+
+
+![下载 (29)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(29).png)
 
 3 . PaddleDetection中YOLOv3模型介绍
 
-![下载 (30)](C:\Users\Administrator\Downloads\下载 (30).png)
+![下载 (30)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(30).png)
 
-![下载 (31)](C:\Users\Administrator\Downloads\下载 (31).png)
+![下载 (31)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(31).png)
 
-![下载 (32)](C:\Users\Administrator\Downloads\下载 (32).png)
+![下载 (32)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(32).png)
 
-![下载 (33)](C:\Users\Administrator\Downloads\下载 (33).png)
+![下载 (33)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(33).png)
 
-![下载 (34)](C:\Users\Administrator\Downloads\下载 (34).png)
+![下载 (34)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(34).png)
 
 
 
-![下载 (35)](C:\Users\Administrator\Downloads\下载 (35).png)
+![下载 (35)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(35).png)
 
 4.【实战】PP-YOLO工业质检缺陷检测 
 
-![下载 (36)](C:\Users\Administrator\Downloads\下载 (36).png)
+![下载 (36)](https://github.com/kjf4096/PaddlePaddle-7-day4/blob/master/%E4%B8%8B%E8%BD%BD%20(36).png)
 
 ### 4.1 数据准备
 
